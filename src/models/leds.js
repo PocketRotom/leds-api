@@ -120,7 +120,7 @@ async function smooth() {
     return;
 }
 
-async function WHITE() {
+async function white() {
     exec("irsend SEND_ONCE led WHITE", (error, stdout, stderr) => {
         if (error) {
             console.log(`error: ${error.message}`);
