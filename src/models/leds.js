@@ -105,7 +105,7 @@ async function fade() {
     return;
 }
 
-async function SMOOTH() {
+async function smooth() {
     exec("irsend SEND_ONCE led SMOOTH", (error, stdout, stderr) => {
         if (error) {
             console.log(`error: ${error.message}`);
