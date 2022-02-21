@@ -8,7 +8,6 @@ module.exports = {
 
             return res.status(200).json({
                 success: true,
-                count: 1,
             });
         } catch (error) {
             return res.status(500).json({
@@ -24,7 +23,6 @@ module.exports = {
 
             return res.status(200).json({
                 success: true,
-                count: 1,
             });
         } catch (error) {
             return res.status(500).json({
@@ -40,7 +38,6 @@ module.exports = {
 
             return res.status(200).json({
                 success: true,
-                count: 1,
             });
         } catch (error) {
             return res.status(500).json({
@@ -56,7 +53,6 @@ module.exports = {
 
             return res.status(200).json({
                 success: true,
-                count: 1,
             });
         } catch (error) {
             return res.status(500).json({
@@ -72,7 +68,6 @@ module.exports = {
 
             return res.status(200).json({
                 success: true,
-                count: 1,
             });
         } catch (error) {
             return res.status(500).json({
@@ -88,7 +83,6 @@ module.exports = {
 
             return res.status(200).json({
                 success: true,
-                count: 1,
             });
         } catch (error) {
             return res.status(500).json({
@@ -104,7 +98,6 @@ module.exports = {
 
             return res.status(200).json({
                 success: true,
-                count: 1,
             });
         } catch (error) {
             return res.status(500).json({
@@ -120,7 +113,6 @@ module.exports = {
 
             return res.status(200).json({
                 success: true,
-                count: 1,
             });
         } catch (error) {
             return res.status(500).json({
@@ -136,7 +128,6 @@ module.exports = {
 
             return res.status(200).json({
                 success: true,
-                count: 1,
             });
         } catch (error) {
             return res.status(500).json({
@@ -152,7 +143,6 @@ module.exports = {
 
             return res.status(200).json({
                 success: true,
-                count: 1,
             });
         } catch (error) {
             return res.status(500).json({
@@ -168,7 +158,6 @@ module.exports = {
 
             return res.status(200).json({
                 success: true,
-                count: 1,
             });
         } catch (error) {
             return res.status(500).json({
@@ -184,7 +173,6 @@ module.exports = {
 
             return res.status(200).json({
                 success: true,
-                count: 1,
             });
         } catch (error) {
             return res.status(500).json({
@@ -200,7 +188,6 @@ module.exports = {
 
             return res.status(200).json({
                 success: true,
-                count: 1,
             });
         } catch (error) {
             return res.status(500).json({
@@ -216,7 +203,6 @@ module.exports = {
 
             return res.status(200).json({
                 success: true,
-                count: 1,
             });
         } catch (error) {
             return res.status(500).json({
@@ -232,7 +218,6 @@ module.exports = {
 
             return res.status(200).json({
                 success: true,
-                count: 1,
             });
         } catch (error) {
             return res.status(500).json({
@@ -248,7 +233,6 @@ module.exports = {
 
             return res.status(200).json({
                 success: true,
-                count: 1,
             });
         } catch (error) {
             return res.status(500).json({
@@ -264,7 +248,6 @@ module.exports = {
 
             return res.status(200).json({
                 success: true,
-                count: 1,
             });
         } catch (error) {
             return res.status(500).json({
@@ -280,7 +263,6 @@ module.exports = {
 
             return res.status(200).json({
                 success: true,
-                count: 1,
             });
         } catch (error) {
             return res.status(500).json({
@@ -296,7 +278,6 @@ module.exports = {
 
             return res.status(200).json({
                 success: true,
-                count: 1,
             });
         } catch (error) {
             return res.status(500).json({
@@ -312,7 +293,6 @@ module.exports = {
 
             return res.status(200).json({
                 success: true,
-                count: 1,
             });
         } catch (error) {
             return res.status(500).json({
@@ -328,7 +308,6 @@ module.exports = {
 
             return res.status(200).json({
                 success: true,
-                count: 1,
             });
         } catch (error) {
             return res.status(500).json({
@@ -344,7 +323,6 @@ module.exports = {
 
             return res.status(200).json({
                 success: true,
-                count: 1,
             });
         } catch (error) {
             return res.status(500).json({
@@ -360,7 +338,6 @@ module.exports = {
 
             return res.status(200).json({
                 success: true,
-                count: 1,
             });
         } catch (error) {
             return res.status(500).json({
@@ -376,7 +353,6 @@ module.exports = {
 
             return res.status(200).json({
                 success: true,
-                count: 1,
             });
         } catch (error) {
             return res.status(500).json({
